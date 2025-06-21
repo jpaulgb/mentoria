@@ -12,6 +12,8 @@ for(let i = 0; i<8 ; i++){
     console.log(i)
 }
 
+//commit numero 5
+
 /* COMANDOS 
 
 git add.
