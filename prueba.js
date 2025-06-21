@@ -13,9 +13,7 @@ if(numeroUno < numeroDos){
 }
 }
 
-for(let i = 0; i<8 ; i++){
-    console.log(i)
-}
+
 
 //commit numero 7
 
