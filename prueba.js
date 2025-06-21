@@ -8,6 +8,10 @@ if(numeroUno < numeroDos){
     console.log("condición falsas")
 }
 
+for(let i = 0; i<8 ; i++){
+    console.log(i)
+}
+
 /* COMANDOS 
 
 git add.
